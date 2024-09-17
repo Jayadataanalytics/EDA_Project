@@ -2,39 +2,39 @@
 
 ## Problem Statement
 
-#.What are the top categories on Play Store?
+1.What are the top categories on Play Store?
 
-.Are majority of the apps Paid or Free?
+2.Are majority of the apps Paid or Free?
 
-.How importance is the rating of the application?
+3.How importance is the rating of the application?
 
-.Which categories from the audience should the app be based on?
+4.Which categories from the audience should the app be based on?
 
-.Which category has the most no. of installations?
+5.Which category has the most no. of installations?
 
-.How does the count of apps varies by Genres?
+6.How does the count of apps varies by Genres?
 
-.How does the last update has an effect on the rating?
+7.How does the last update has an effect on the rating?
 
-.How are ratings affected when the app is a paid one?
+8.How are ratings affected when the app is a paid one?
 
-.How are reviews and ratings co-related?
+9.How are reviews and ratings co-related?
 
-.Lets us discuss the sentiment subjectivity.
+10.Lets us discuss the sentiment subjectivity.
 
-.Is subjectivity and polarity proportional to each other?
+11.Is subjectivity and polarity proportional to each other?
 
-.What is the percentage of review sentiments?
+12.What is the percentage of review sentiments?
 
-.How is sentiment polarity varying for paid and free apps?
+13.How is sentiment polarity varying for paid and free apps?
 
-.How Content Rating affect over the App?
+14.How Content Rating affect over the App?
 
-.Does Last Update date has an effects on rating?
+15.Does Last Update date has an effects on rating?
 
-.Distribution of App update over the Year.
+16.Distribution of App update over the Year.
 
-.Distribution of Paid and Free app updated over the Month.
+17.Distribution of Paid and Free app updated over the Month.
 
 
 
