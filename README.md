@@ -1,8 +1,8 @@
 # EDA_Capstone_Project Play Store App Review Analysis
 
-# Problem Statement
+## Problem Statement
 
-.What are the top categories on Play Store?
+#.What are the top categories on Play Store?
 
 .Are majority of the apps Paid or Free?
 
